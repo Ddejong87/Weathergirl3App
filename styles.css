@@ -5,39 +5,39 @@ h1 {
   font-weight: 80px;
   padding: 0, 20, 0, 20;
 }
-h2 { 
+h2 {
   font-family: "Montserrat", sans-serif;
   font-weight: 80;
 }
 
-h3 { 
+h3 {
   font-family: "Montserrat", sans-serif;
   font-weight: 20px;
   color: silver;
 }
 
-.head { 
+.head {
   display: inline-block;
   max-width: 100px;
 }
-form { 
+form {
   padding: 20px;
   display: block;
 }
 
-img { 
+img {
   display: block;
   margin: auto;
   max-width: 50px;
 }
 
-button { 
+button {
   display: block;
   padding: auto;
   margin: 0, 20, 0, 20;
   border-width: thin;
 }
-.name { 
+.name {
   font-family: "Pacifico", cursive;
   font-size: 30px;
   text-align: left;
@@ -46,16 +46,20 @@ button {
   padding: 20px;
 }
 
-.row { 
+.row {
   font-family: "Montserrat", sans-serif;
   padding: 10px;
 }
 
-ul { 
-    list-style-type: none;}
+ul {
+  list-style-type: none;
+}
 
-body { background-color: #fff;
-background-repeat: no-repeat;
-background-position: 60% 40%;
-background-size: 25%;
-position: relative; }
+body {
+  background-color: #fff;
+  padding: 50px;
+  background-repeat: no-repeat;
+  background-position: 60% 40%;
+  background-size: 25%;
+  position: relative;
+}
