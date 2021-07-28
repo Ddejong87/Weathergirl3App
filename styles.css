@@ -62,7 +62,10 @@ body {
   background-color: #fff;
   background-repeat: no-repeat;
   background-position: right center;
-  padding: 20px;
   background-size: 22%;
-  position: relative;
+}
+.footer {
+  text-align: center;
+  font-size: 15px;
+  color: #fd7e14;
 }
